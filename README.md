@@ -28,5 +28,5 @@
    python bazar1.py
 
 ## 👨‍💻 المطور (Developer)
-Hossam Eldine Sayed
+Hossam Eldine Sayed Rabiea
 - [حسابك على GitHub](https://github.com/hossameldine766-hash)
