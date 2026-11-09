@@ -16,7 +16,9 @@
 
 ## 📸 لقطات من البرنامج (Screenshots)
 
-[!app.ico)](https://github.com/hossameldine766-hash)
+<div align="center">
+  <img src="app.ico" alt="Sunrise Logo" width="300">
+</div>
 <img width="1664" height="1028" alt="Capture2" src="https://github.com/user-attachments/assets/b604520f-3185-4488-a3a9-d623f640a344" />
 
 ## ⚙️ كيفية التشغيل (How to Run)
