@@ -17,6 +17,7 @@
 ## 📸 لقطات من البرنامج (Screenshots)
 
 ![واجهة البرنامج](app.ico)
+<img width="1664" height="1028" alt="Capture2" src="https://github.com/user-attachments/assets/b604520f-3185-4488-a3a9-d623f640a344" />
 
 ## ⚙️ كيفية التشغيل (How to Run)
 1. قم بتثبيت متطلبات التشغيل:
