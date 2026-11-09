@@ -18,6 +18,8 @@
 
 ![واجهة البرنامج](app.ico)
 
+<img width="600" height="480" alt="splash" src="https://github.com/user-attachments/assets/0ace632e-6dd2-4c6b-8380-4e1c67662590" />
+
 ## ⚙️ كيفية التشغيل (How to Run)
 1. قم بتثبيت متطلبات التشغيل:
    pip install -r requirements.txt
