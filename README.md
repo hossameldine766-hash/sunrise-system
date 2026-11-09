@@ -1,6 +1,6 @@
 # Sunrise System 🌅
 
-نظام متكامل لإدارة حسابات البازارات ، تم تطويره بلغة Python ليكون سريعاً وسهل الاستخدام.
+نظام متكامل لإدارة المبيعات والمخزون، تم تطويره بلغة Python ليكون سريعاً وسهل الاستخدام.
 
 ## 🌟 مميزات البرنامج (Features)
 * إدارة عمليات البيع وتوليد الفواتير.
@@ -15,12 +15,18 @@
 * قاعدة البيانات: SQLite
 
 ## 📸 لقطات من البرنامج (Screenshots)
-
+*(إذا كان لديك صورة لواجهة البرنامج، ارفعها وسيتم عرضها هنا)*
 ![واجهة البرنامج](app.ico)
 
 ## ⚙️ كيفية التشغيل (How to Run)
 1. قم بتثبيت متطلبات التشغيل:
    pip install -r requirements.txt
+2. قم بتشغيل الملف الرئيسي:
+   python bazar1.py
+
+## 👨‍💻 المطور (Developer)
+Hossam Eldine Sayed
+- [حسابك على GitHub](https://github.com/hossameldine766-hash)   pip install -r requirements.txt
 2. قم بتشغيل الملف الرئيسي:
    python bazar1.py
 
