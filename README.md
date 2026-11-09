@@ -18,8 +18,6 @@
 
 ![واجهة البرنامج](app.ico)
 
-                         
-
 ## ⚙️ كيفية التشغيل (How to Run)
 1. قم بتثبيت متطلبات التشغيل:
    pip install -r requirements.txt
